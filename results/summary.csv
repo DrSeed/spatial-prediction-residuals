@@ -1,0 +1,10 @@
+group,cv_r2,morans_i_residual,frac_residual_I_significant,value
+housekeeping,0.147,0.008,0.0,
+immune,0.741,0.026,0.33,
+macrophage,0.766,0.05,0.83,
+niche,0.158,0.114,1.0,
+stroma,0.819,0.011,0.17,
+tumour,0.813,0.021,0.33,
+niche AUROC: residual discordance,,,,0.946
+niche AUROC: best single cell-type fraction,,,,0.782
+hotspot (top 5%) spots inside niche,,,,0.747
